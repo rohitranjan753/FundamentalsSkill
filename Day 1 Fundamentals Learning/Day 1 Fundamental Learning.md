@@ -28,7 +28,7 @@ gets terminated.
 6. An algorithm can be described by incorporating a natural language such as English, Computer
 language, or a hardware language.
 
-## Characteristics of an Algorithm
+## Characteristics of an Algorithm 
 The following are the characteristics of an algorithm:
 
 1. Input: An algorithm has some input values. We can pass 0 or some input value to an
