@@ -4,8 +4,9 @@
 
 
 - FundamentalsSkill
-    - Fundamentals Skill
+    - Algorithm
         - [Day 1 Fundamentals Learning | Algorithm 1 | 06/10/2022](https://github.com/rohit-753/FundamentalsSkill/tree/main/Day%201%20Fundamentals%20Learning)
         - [Day 2 Fundamentals Learning | Algorithm 2 | 07/10/2022](https://github.com/rohit-753/FundamentalsSkill/tree/main/Day%202%20of%20Fundamentals%20Learning)
         - [Day 3 Fundamentals Learning | Algorithm 3 | 08/10/2022](https://github.com/rohit-753/FundamentalsSkill/tree/main/Day%203%20of%20Fundamentals%20Learning)
         - [Day 4 Fundamentals Learning | Algorithm 3 | 09/10/2022]
+      
