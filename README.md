@@ -12,3 +12,6 @@
         - [05_Day 5 Fundamentals Learning | Algorithm 5 | 10/10/2022](https://github.com/rohit-753/FundamentalsSkill/tree/main/05_Day%205%20of%20Fundamentals%20Learning)
         - [06_Day 6 Fundamentals Learning | Algorithm 6 | 11/10/2022](https://github.com/rohit-753/FundamentalsSkill/tree/main/06_Day%206%20of%20Fundamentals%20Learning)
         - [07_Day 7 Fundamentals Learning | Algorithm 7 | 12/10/2022](https://github.com/rohit-753/FundamentalsSkill/tree/main/07_Day%207%20of%20Fundamentals%20Learning)
+        - [08_Day 8 Fundamentals Learning | Algorithm | Interview Question 1 | 13/10/2022](https://github.com/rohitranjan753/FundamentalsSkill/tree/main/08_Day%208%20of%20Fundamentals%20Learning)
+        - [09_Day 9 Fundamentals Learning | Algorithm | Interview Question 2 | 14/10/2022](https://github.com/rohitranjan753/FundamentalsSkill/tree/main/09_Day%209%20of%20Fundamentals%20Learning)
+        - [10_Day 10 Fundamentals Learning | Algorithm | Interview Question 3 | 15/10/2022](https://github.com/rohitranjan753/FundamentalsSkill/tree/main/10_Day%2010%20of%20Fundamentals%20Learning)
